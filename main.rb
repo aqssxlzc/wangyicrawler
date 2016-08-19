@@ -1,7 +1,5 @@
 require 'watir-webdriver'
 
-browser = Watir::Browser.new
-browser.goto 'http://baidu.com'
+browser = Watir::Browser.new :phantomjs
+browser.goto 'manhua.163.com/source/4554950842220111990'
 
-browser.text_field(:name => 'wd').set 'Watir'
-#browser.button(:id => 'su').click
