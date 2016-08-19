@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="childprocess (v0.5.9, ruby-2.2.4-p230) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ffi (v1.9.14, ruby-2.2.4-p230) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubyzip (v1.1.7, ruby-2.2.4-p230) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v2.53.4, ruby-2.2.4-p230) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="watir-webdriver (v0.9.3, ruby-2.2.4-p230) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="websocket (v1.2.3, ruby-2.2.4-p230) [gem]" level="application" />
+  </component>
+</module>
